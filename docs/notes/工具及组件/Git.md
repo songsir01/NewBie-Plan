@@ -11,6 +11,9 @@
 ## git log
 查看提交记录
 
+## git log --since=2019-01-01 --until=2019-01-02 | wc -l
+指定时间内提交数
+
 ## git init
 初始化仓库,即把这个目录变成git可以管理的git仓库;
 
